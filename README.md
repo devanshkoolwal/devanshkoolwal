@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Koolwal</h1>
-<h3 align="center">I am Devansh Koolwal, 3rd Year BCA Student basically into percipient software development, I am a full-stack web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.</h3>
+<h3 align="center">I am a technology enthusiast and a software engineer skilled in full stack web development with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshkoolwal&label=Profile%20views&color=0e75b6&style=flat" alt="devanshkoolwal" /> </p>
 <img align="right" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="300"/>
